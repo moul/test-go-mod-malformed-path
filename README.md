@@ -1,0 +1,1 @@
+# test-go-mod-malformed-path

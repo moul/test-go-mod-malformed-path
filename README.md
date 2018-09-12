@@ -1,1 +1,1 @@
-# test-go-mod-malformed-path
+https://github.com/golang/go/issues/27642
